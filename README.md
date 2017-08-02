@@ -1,0 +1,2 @@
+# scrapy
+scrapy中Request方法中的cookies参数需要使用字典格式传递，所以这个脚本的目的就是转换浏览器中的cookie为scrapy中可用的格式（使用环境python3.x）
